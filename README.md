@@ -16,7 +16,7 @@ Le rendu final hébergé sur GitHub : [Ohmyfood!](https://guillaumeaubin.github.
 
 #### 🔨 Créer un site grâce à HTML & CSS
 
-##### Compétences évalué
+##### Compétences évaluées
 
 * Mettre en place une structure de navigation pour un site web
 * Mettre en place son environnement Front-End
