@@ -14,7 +14,7 @@
 
 Le rendu final hébergé sur GitHub : [Ohmyfood!](https://guillaumeaubin.github.io/ohmyfood_Dynamiser_animations_CSS/)
 
-#### 🔨 Créer un site grâce à HTML & CSS
+#### 🔨 Créer un site dynamique grâce à HTML & CSS
 
 ##### Compétences évaluées
 
